@@ -1,2 +1,2 @@
 # docker-hello-world
-To be used for Lab 12
+Simple docker php hello world, based on: https://github.com/kostapsimoulis/docker-hello-world 
